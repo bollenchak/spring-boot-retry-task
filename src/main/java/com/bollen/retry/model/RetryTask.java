@@ -13,8 +13,6 @@ import lombok.NoArgsConstructor;
 
 /**
  * 重试任务
- * @author bolong.zhai @baidao.com
- * @since 2017 -12-14 10:59:36
  */
 @Data
 @Builder
